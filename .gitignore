@@ -1,5 +1,5 @@
 # Отладочные журналы npm
-npm-debug.log*
+*.log
 
 # Зависимости проекта
 node_modules
