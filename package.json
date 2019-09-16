@@ -18,5 +18,8 @@
   "homepage": "https://github.com/Vladimir12071983/lj#readme",
   "dependencies": {
     "underscore": "^1.9.1"
+  },
+  "devDependencies": {
+    "gulp": "^4.0.2"
   }
 }
